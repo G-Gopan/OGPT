@@ -1,0 +1,241 @@
+text,raw_data_id
+"<|user|> What are the physical signs of acute lymphoblastic leukemia? <|eos|> <|ai|> The physical signs of acute lymphoblastic leukemia include swollen glands.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What happens if the blood sample contains a high number of abnormal white blood cells? <|eos|> <|ai|> If the blood sample contains a high number of abnormal white blood cells, it could indicate acute leukemia.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is a bone marrow biopsy? <|eos|> <|ai|> A bone marrow biopsy is a procedure where a small sample of bone marrow is taken from a patient using a needle, and then examined under a microscope to check for cancerous cells.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> Is the bone marrow biopsy painful? <|eos|> <|ai|> The bone marrow biopsy procedure involves the use of a local anesthetic to numb the skin over a bone to prevent any pain. Once the anesthetic wears off, one may experience some pain, bruising and discomfort for a few days afterwards.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What happens after a bone marrow biopsy? <|eos|> <|ai|> After a bone marrow biopsy, one will have a dressing over the area of the body where the bone marrow was removed, which should be kept on for 24 hours. The bone marrow sample will be checked for cancerous cells and the type of acute leukemia will be determined at the same time.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is cytogenetic testing? <|eos|> <|ai|> Cytogenetic testing is a test that involves identifying the genetic make-up of the cancerous cells in a sample of blood, bone marrow or another type of tissue to determine the specific genetic variations that can occur during leukemia.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is immunophenotyping? <|eos|> <|ai|> Immunophenotyping is a test to help identify the exact type of acute lymphoblastic leukemia, as treatments may differ slightly for each type of acute lymphoblastic leukemia. A sample of blood, bone marrow or another type of fluid is studied.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is a lumbar puncture? <|eos|> <|ai|> A lumbar puncture is a medical procedure where a needle is inserted into the lower part of somebody's spine to extract a small sample of cerebrospinal fluid to test for cancer cells, to see whether there is a chance that acute leukemia has spread to the nervous system.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is a CT scan used for in the context of acute lymphoblastic leukemia? <|eos|> <|ai|> If somebody has been diagnosed with acute lymphoblastic leukemia, a CT scan may be used to assess how far the cancer has spread and to check that their organs, such as their heart and lungs, are healthy.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is a polymerase chain reaction (PCR) test used for in the context of acute lymphoblastic leukemia? <|eos|> <|ai|> A PCR test can be done on a blood sample to help diagnose and monitor the response to treatment. The blood test is repeated every 3 months for at least 2 years after starting treatment, then less often once remission is achieved.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is acute lymphoblastic leukemia? <|eos|> <|ai|> Acute lymphoblastic leukemia is a type of cancer that affects white blood cells. It progresses quickly and aggressively and requires immediate treatment. Both adults and children can be affected.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What are the symptoms of acute lymphoblastic leukemia?  <|eos|> <|ai|> Some of the symptoms of acute lymphoblastic leukemia include pale skin, feeling tired and breathless, repeated infections over a short time, unusual and frequent bleeding, high temperature, night sweats, bone and joint pain, tummy (abdominal pain) and more.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> How is acute lymphoblastic leukemia treated? <|eos|> <|ai|> Chemotherapy is the main treatment for acute lymphoblastic leukemia. Other treatments include antibiotics and blood transfusions. Sometimes a stem cell transplant may also be needed to achieve a cure. The treatment usually consists of remission induction, consolidation, and maintenance stages.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What causes acute lymphoblastic leukemia? <|eos|> <|ai|> A genetic change (mutation) in the stem cells causes immature white blood cells to be released into the bloodstream. The exact cause is unknown, but certain risk factors are involved, such as previous chemotherapy, smoking, being overweight, genetic disorders, and having a weakened immune system.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What is the outlook for people with acute lymphoblastic leukemia?  <|eos|> <|ai|> One of the biggest factors that affects the outlook for people with acute lymphoblastic leukemia is age. The younger a person is when they are diagnosed and treatment begins, the better the outlook. The survival rate varies depending on the age group.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What is the main treatment for acute lymphoblastic leukemia?  <|eos|> <|ai|> The main treatment for acute lymphoblastic leukemia is chemotherapy. It is usually done in the following stages: remission induction, consolidation, and maintenance. Other treatments include antibiotics and blood transfusions, and sometimes a stem cell transplant may be needed.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What are the risk factors for developing acute lymphoblastic leukemia?  <|eos|> <|ai|> Certain risk factors may increase the chance of developing acute lymphoblastic leukemia, such as previous chemotherapy, smoking, being overweight, genetic disorders, and having a weakened immune system. Environmental factors such as living near a nuclear power station, power line or a building that releases electromagnetic radiation have not been proven to increase the risk.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What are blast cells in acute lymphoblastic leukemia?  <|eos|> <|ai|> In acute lymphoblastic leukemia, large numbers of white blood cells, known as blast cells, are released from the bone marrow into the bloodstream before they are fully developed. As the number of blast cells (immature white blood cells) increases, the number of red blood cells and platelet cells decreases, causing symptoms such as tiredness, breathlessness, and an increased risk of excessive bleeding.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What are the complications of acute lymphoblastic leukemia?  <|eos|> <|ai|> If a cure for acute lymphoblastic leukemia is not possible, there's a risk that the lack of healthy blood cells can make the person extremely vulnerable to life-threatening infections (because they do not have enough healthy white blood cells to fight infections) and prone to uncontrolled and serious bleeding (because there are not enough platelets in their blood). Other complications include neurological symptoms and more.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> Is acute lymphoblastic leukemia common?  <|eos|> <|ai|> Acute lymphoblastic leukemia is rare, with around 790 people diagnosed with the condition each year in the UK. Most cases of acute lymphoblastic leukemia are found in children, teenagers, and young adults. It is the most common type of leukemia that affects children with about 85% of cases happening in those younger than 15 (mostly between the ages of 0 and 5).
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What is acute lymphoblastic leukaemia? <|eos|> <|ai|> Acute lymphoblastic leukaemia is a type of blood cancer that usually affects children and young adults. It develops quickly, so treatment usually begins a few days after diagnosis.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What are the stages of treatment for acute lymphoblastic leukaemia? <|eos|> <|ai|> Treatment for acute lymphoblastic leukaemia is usually done in three stages: remission induction, consolidation, and maintenance.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is the aim of remission induction? <|eos|> <|ai|> The aim of remission induction is to kill the leukaemia cells in your bone marrow, restore the balance of cells in your blood and relieve your symptoms.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What are the common side effects of chemotherapy? <|eos|> <|ai|> Common side effects of chemotherapy include feeling and being sick, diarrhoea, loss of appetite, tiredness, skin rashes, and infertility. The side effects should get better once treatment has finished.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is imatinib? <|eos|> <|ai|> Imatinib is a medicine that is given to people with a type of leukaemia called Philadelphia chromosome-positive acute lymphoblastic leukaemia (which affects around 20 to 30% of people with acute lymphoblastic leukaemia). It is a targeted therapy which blocks signals in the cancerous cells that cause them to grow and reproduce. This kills the cancerous cells.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is consolidation treatment? <|eos|> <|ai|> The aim of consolidation treatment is to ensure that any remaining leukaemia cells are killed. The consolidation phase involves regular injections of chemotherapy medicine. This is usually done on an outpatient basis, so you will not have to stay in hospital overnight.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is immunotherapy? <|eos|> <|ai|> Immunotherapy is a type of treatment where medicines are used to encourage the body's immune system to target and kill cancerous cells. Immunotherapy may be recommended if you do not respond to other treatments or the cancer comes back after other treatments.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What are the side effects of radiotherapy? <|eos|> <|ai|> Side effects of radiotherapy include hair loss, feeling sick, and fatigue. Your skin may be very sensitive to the effects of light for several months after treatment has finished. Many young children treated with radiotherapy will go on to have restricted physical growth during puberty. A small number of people develop cataracts several years after having radiotherapy.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What should be done before a stem cell and bone marrow transplant? <|eos|> <|ai|> Before a stem cell and bone marrow transplant can happen, the person receiving the transplant will need to have high-dose chemotherapy and radiotherapy to destroy any cancerous cells in their body.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What are clinical trials? <|eos|> <|ai|> Clinical trials are studies using new techniques to see how well they work in treating and possibly curing acute leukaemia. Your care team will be able to tell you whether there are any clinical trials available in your area and can explain the benefits and risks involved.
+References:
+- https://www.nhs.uk/conditions/acute-lymphoblastic-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What causes acute myeloid leukaemia? <|eos|> <|ai|> It is not clear what causes acute myeloid leukaemia (AML), but the myeloid stem cells produce more white blood cells than are needed. The white blood cells produced are still immature, so they do not have the infection-fighting properties of fully developed white blood cells. As the number of immature cells increases, the amount of healthy red blood cells and platelets decrease, and it's this fall that causes many of the symptoms of leukaemia.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> What are the symptoms of leukaemia? <|eos|> <|ai|> Leukaemia can cause a range of symptoms, including fatigue, breathlessness, pale skin, frequent infections, unusual bleeding, such as nosebleeds or bleeding gums, and lumps or masses in the body.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> Can radiation exposure increase the risk of AML? <|eos|> <|ai|> Yes, being exposed to a significant level of radiation can increase your chances of developing AML, although this usually requires exposure at very high levels. In the UK, most people are unlikely to be exposed to levels of radiation high enough to cause AML. But some people who have had radiotherapy as part of a previous cancer treatment may have a bigger chance of getting AML.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> What is benzene, and how can it increase the risk of AML? <|eos|> <|ai|> Benzene is a chemical found in petrol and used in the rubber industry. Exposure to benzene is a known risk factor for AML in adults. There are strict controls to protect people from prolonged exposure. Benzene is also found in cigarette smoke, which could explain why people who smoke have an increased risk of developing AML.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> Can previous cancer treatment increase the risk of AML? <|eos|> <|ai|> Yes, treatment with radiotherapy and certain chemotherapy medicines for an earlier, unrelated cancer can increase your risk of developing AML many years later.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> What are myelodysplasia, myelofibrosis, and polycythaemia vera? <|eos|> <|ai|> Myelodysplasia, myelofibrosis, and polycythaemia vera are blood disorders that can increase the risk of developing AML.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> What are Down's syndrome and Fanconi's anaemia, and how are they related to leukaemia? <|eos|> <|ai|> Down's syndrome and Fanconi's anaemia are genetic conditions that can increase the risk of developing leukaemia.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> Why are immature white blood cells produced in AML not effective in fighting infections? <|eos|> <|ai|> Immature white blood cells produced in AML are still not fully developed, which means they lack the infection-fighting properties of fully developed white blood cells.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> What are the factors that can increase the risk of developing AML? <|eos|> <|ai|> Radiation exposure, exposure to benzene, previous cancer treatment, certain blood disorders, and certain genetic conditions can increase the risk of developing AML.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> Is exposure to benzene only limited to the rubber industry? <|eos|> <|ai|> No, benzene is also found in petrol and cigarette smoke. However, there are strict controls to protect people from prolonged exposure in the rubber industry.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/causes/ <|eos|> <|eod|>",0
+"<|user|> What are the possible complications of acute myeloid leukaemia? <|eos|> <|ai|> Complications of acute myeloid leukaemia include a weakened immune system, bleeding or excessive bleeding, and temporary or permanent infertility caused by treatments.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> Why does acute myeloid leukaemia cause a weakened immune system? <|eos|> <|ai|> Acute myeloid leukaemia can cause a weakened immune system as a side effect of treatment, which can temporarily decrease the number of working white blood cells in the body.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> What are the common symptoms of infection in people with acute myeloid leukaemia? <|eos|> <|ai|> Common symptoms of infection in people with acute myeloid leukaemia include a sore throat, a high temperature, flu-like symptoms such as headaches and tiredness, breathlessness or a cough, and pain when peeing.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> How can someone with AML prevent infection? <|eos|> <|ai|> Someone with AML can prevent infection by taking regular doses of antibiotics, maintaining good personal and dental hygiene, avoiding contact with anyone who has an infection, and making sure their vaccinations are up to date.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> What should you do if you develop symptoms of infection while being treated for AML? <|eos|> <|ai|> If you develop symptoms of infection while being treated for AML, you should report it to your treatment unit immediately as prompt treatment may be needed to prevent complications.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> Why do people with AML bleed and bruise more easily? <|eos|> <|ai|> People with AML can bleed and bruise more easily due to low levels of platelets, which are responsible for helping blood clot.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> What are the symptoms of intracranial haemorrhage? <|eos|> <|ai|> Symptoms of intracranial haemorrhage include severe headache, stiff neck, vomiting, and confusion. It should be regarded as a medical emergency.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> Can treatments for AML cause temporary or permanent infertility? <|eos|> <|ai|> Yes, most treatments used to treat AML can cause temporary or permanent infertility, particularly those who received high doses of chemotherapy and radiotherapy in preparation for a bone marrow or stem cell transplant.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> How can someone prevent excessive bleeding when they have advanced AML? <|eos|> <|ai|> There is no surefire way to prevent excessive bleeding when someone has advanced AML, but treatment can focus on managing and stabilizing low levels of platelets.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> Are children with acute myeloid leukaemia at risk of developing chickenpox or measles? <|eos|> <|ai|> Children with acute myeloid leukaemia are at risk of developing chickenpox or measles and should avoid contact with anyone who has one of these infections as they have weakened immune systems.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/complications/ <|eos|> <|eod|>",0
+"<|user|> What are the initial steps taken by a GP to diagnose AML? <|eos|> <|ai|> The GP performs physical examination and orders blood tests to check the presence of abnormal white blood cells or low red blood cell count that may indicate Acute Myeloid Leukaemia (AML).
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What are the steps involved in bone marrow biopsy? <|eos|> <|ai|> Bone marrow biopsy is a procedure to confirm AML diagnosis. A doctor or nurse numbs the area before using a thin needle to extract a small sample of liquid bone marrow for microscopic examination. In some cases, a thin piece of bone marrow may also be removed. The procedure may cause some bruising and discomfort.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What other tests can be conducted to determine the progress and extent of AML? <|eos|> <|ai|> Genetic tests can determine the type of AML, while a chest X-ray can be used to determine the condition of your heart and lungs. In rare situations where AML thought to have spread to the nervous system, a lumbar puncture may be conducted to extract cerebrospinal fluid for testing.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is haematologist? <|eos|> <|ai|> A haematologist is a specialist in blood disorders who diagnoses and treats AML and other blood disorders.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is AML? <|eos|> <|ai|> AML is an abbreviation for Acute Myeloid Leukaemia, which is a type of cancer originating from the bone marrow and blood cells.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is the duration of the bone marrow biopsy procedure? <|eos|> <|ai|> Bone marrow biopsy procedure typically takes about 20 to 30 minutes to extract a small sample of liquid bone marrow.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is the purpose of a chest X-ray in diagnosing AML? <|eos|> <|ai|> A chest X-ray can check the condition of your heart and lungs to assess your general health before deciding on the most appropriate treatment for AML.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is done if cancerous cells are found in cerebrospinal fluid in a lumbar puncture? <|eos|> <|ai|> If cancerous cells are detected in cerebrospinal fluid, there is a possibility that AML may have spread to the nervous system, which may affect the treatment plan.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> Is bone marrow biopsy painful and how can one prepare for the procedure? <|eos|> <|ai|> The bone marrow biopsy procedure may be uncomfortable during the sample collection, but numbing the area minimizes any pain. One can take pain relief medication before the procedure and communication with a healthcare provider is always recommended.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> Where can one find more information and advice to cope with AML? <|eos|> <|ai|> ""Cancer Research UK"" provides helpful information and advice on coping with AML.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/diagnosis/ <|eos|> <|eod|>",0
+"<|user|> What is acute myeloid leukaemia? <|eos|> <|ai|> Acute myeloid leukaemia (AML) is an aggressive cancer of the monocyte or granulocyte cells. It is classified according to the type of white blood cells affected and usually requires immediate treatment.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What are the symptoms of AML? <|eos|> <|ai|> Symptoms of AML include looking pale or ""washed out"", feeling tired or weak, breathlessness, frequent infections, unusual and frequent bruising or bleeding, such as bleeding gums or nosebleeds, and losing weight without trying to.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> How can I seek medical advice if I suspect I have AML?  <|eos|> <|ai|> If you or your child have possible symptoms of AML, seek advice from your GP. If your GP thinks you may have leukaemia, they will arrange blood tests to check your blood cells. If the tests suggest there is a problem, you will be urgently referred to a specialist in treating blood conditions for further tests and treatment.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What increases my risk of getting AML?  <|eos|> <|ai|> Some things can increase your risk of getting AML, including previous chemotherapy or radiotherapy, exposure to very high levels of radiation, smoking and other exposure to benzene, having a blood disorder or some genetic conditions, such as Down's syndrome.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> Who is most commonly affected by AML?  <|eos|> <|ai|> AML is a rare type of cancer, with around 3,100 people diagnosed with it each year in the UK. The risk of developing AML increases with age and it is most common in people over 75.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What is the main treatment for AML?  <|eos|> <|ai|> Chemotherapy is the main treatment for AML. It is used to kill as many leukaemia cells in your body as possible and reduce the risk of the condition coming back (relapsing).
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> In which cases is intensive chemotherapy and radiotherapy needed for treatment of AML?  <|eos|> <|ai|> In some cases, intensive chemotherapy and radiotherapy may be needed, in combination with a bone marrow or stem cell transplant.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What is Leukaemia Care?  <|eos|> <|ai|> Leukaemia Care is an organization that offers information, advice and support if you or a family member has been diagnosed with AML. They have a freephone helpline and email support services.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What does the term ""acute"" mean in acute myeloid leukaemia?  <|eos|> <|ai|> The term ""acute"" in acute myeloid leukaemia means that it progresses quickly and aggressively and usually requires immediate treatment.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What are the two main types of white blood cells?  <|eos|> <|ai|> The two main types of white blood cells are monocytes and granulocytes, which come from myeloid stem cells, and lymphocytes, which come from lymphoid stem cells. AML is an aggressive cancer of the monocyte or granulocyte cells.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/ <|eos|> <|eod|>",0
+"<|user|> What is acute myeloid leukaemia (AML)? <|eos|> <|ai|> Acute myeloid leukaemia (AML) is an aggressive cancer that grows quickly, and it usually requires immediate treatment.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> How is AML usually treated? <|eos|> <|ai|> AML is usually treated by a group of specialists called a multidisciplinary team (MDT), which can include a haematologist, haemato-pathologist, paediatrician, cancer nurse specialist, radiologist, pharmacist, social worker, psychologist, or counsellor. The treatment usually involves two stages - induction and consolidation.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is the induction stage of AML treatment? <|eos|> <|ai|> The induction stage is the first stage of AML treatment, which aims to kill as many leukaemia cells as possible and treat any symptoms you may have. The treatment for this stage depends on whether you're fit enough to have intensive chemotherapy or whether you need less intensive chemotherapy.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What are the side effects of intensive chemotherapy for AML? <|eos|> <|ai|> The side effects of intensive chemotherapy for AML may include feeling or being sick, bruising or bleeding easily, diarrhea, loss of appetite, sore mouth and mouth ulcers (mucositis), tiredness, skin rashes, hair loss, or infertility (which may be temporary or permanent).
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is consolidation in AML treatment?  <|eos|> <|ai|> The consolidation stage of AML treatment aims to prevent the cancer from coming back (relapsing) by killing any remaining leukaemia cells in your body. The stage usually involves receiving regular injections of chemotherapy medicine that are usually given in hospital.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What other treatments are there for AML besides chemotherapy?  <|eos|> <|ai|> Other treatments for AML include radiotherapy, bone marrow and stem cell transplants, targeted medicines, and participation in clinical trials.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What are the side effects of radiotherapy?  <|eos|> <|ai|> The side effects of radiotherapy can include hair loss, nausea, and fatigue. Most of the side effects should pass once your course of radiotherapy has been completed.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is a bone marrow or stem cell transplant?  <|eos|> <|ai|> A bone marrow or stem cell transplant is a treatment option for AML that involves receiving donated stem cells or having a transplant of your own stem cells. Before the transplantation can take place, the person receiving the transplant will need intensive high-dose chemotherapy and possibly radiotherapy to destroy the cells in their bone marrow.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is consolidation for AML treatment?  <|eos|> <|ai|> The consolidation stage of AML treatment aims to prevent the cancer from coming back (relapsing) by killing any remaining leukaemia cells in your body. The stage usually involves receiving regular injections of chemotherapy medicine that are usually given in hospital.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
+"<|user|> What is a multidisciplinary team (MDT)?  <|eos|> <|ai|> A multidisciplinary team (MDT) is a group of specialists who work together to diagnose and treat AML. This team often includes a haematologist, haemato-pathologist, paediatrician, cancer nurse specialist, radiologist, pharmacist, social worker, psychologist, and counsellor.
+References:
+- https://www.nhs.uk/conditions/acute-myeloid-leukaemia/treatment/ <|eos|> <|eod|>",0
